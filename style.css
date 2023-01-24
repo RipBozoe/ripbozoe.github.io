@@ -3,3 +3,13 @@ body {
     text-align:center;
     background-color: black;
 }
+.header{
+    font-size:xx-large;
+    text-align:center;
+    color:azure;
+}
+.body{
+    font-size:medium;
+    text-align:center;
+    color:azure;
+}
